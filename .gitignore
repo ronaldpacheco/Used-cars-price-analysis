@@ -114,6 +114,7 @@ ENV/
 env.bak/
 venv.bak/
 .virtual_documents/
+Data/
 
 # Spyder project settings
 .spyderproject
